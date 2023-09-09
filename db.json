@@ -1,0 +1,2727 @@
+{
+  "users": [
+    {
+      "name": "Hamza",
+      "id": 1
+    },
+    {
+      "name": "Taha",
+      "id": 2
+    },
+    {
+      "name": "Abdullah",
+      "id": 3
+    },
+    {
+      "name": "Ahsan",
+      "id": 4
+    },
+    {
+      "name": "Usman",
+      "id": 5
+    },
+    {
+      "name": "daneen",
+      "id": 6
+    }
+  ],
+  "userfav": [
+    {
+      "userid": 3,
+      "name": "Howard",
+      "pic1": "https://picsum.photos/seed/Na2ZgUP/640/480",
+      "pic2": "https://picsum.photos/seed/NRqddNGv/640/480",
+      "price": 4211,
+      "id": 8
+    },
+    {
+      "userid": 3,
+      "name": "Carlee",
+      "pic1": "https://picsum.photos/seed/o4crwpjph/640/480",
+      "pic2": "https://picsum.photos/seed/Org1dP1q0/640/480",
+      "price": 2468,
+      "id": 9
+    },
+    {
+      "userid": 3,
+      "name": "Maxine",
+      "pic1": "https://picsum.photos/seed/q6UHO/640/480",
+      "pic2": "https://picsum.photos/seed/KyNf1NvJJ/640/480",
+      "price": 5225,
+      "id": 10
+    },
+    {
+      "userid": 3,
+      "name": "Claudine",
+      "pic1": "https://picsum.photos/seed/2mSaZAV/640/480",
+      "pic2": "https://picsum.photos/seed/2jHKEGK4/640/480",
+      "price": 1095,
+      "id": 11
+    },
+    {
+      "userid": 3,
+      "name": "Henderson",
+      "pic1": "https://picsum.photos/seed/pR5O8/640/480",
+      "pic2": "https://picsum.photos/seed/lHZNcaP/640/480",
+      "price": 2497,
+      "id": 12
+    },
+    {
+      "userid": 7,
+      "name": "Howard",
+      "pic1": "https://picsum.photos/seed/Na2ZgUP/640/480",
+      "pic2": "https://picsum.photos/seed/NRqddNGv/640/480",
+      "price": 4211,
+      "id": 13
+    },
+    {
+      "userid": 7,
+      "name": "Carlee",
+      "pic1": "https://picsum.photos/seed/o4crwpjph/640/480",
+      "pic2": "https://picsum.photos/seed/Org1dP1q0/640/480",
+      "price": 2468,
+      "id": 14
+    },
+    {
+      "userid": 7,
+      "name": "Maxine",
+      "pic1": "https://picsum.photos/seed/q6UHO/640/480",
+      "pic2": "https://picsum.photos/seed/KyNf1NvJJ/640/480",
+      "price": 5225,
+      "id": 15
+    },
+    {
+      "userid": 12,
+      "name": "Katharina",
+      "pic1": "https://picsum.photos/seed/yxa0CgCo6/640/480",
+      "pic2": "https://picsum.photos/seed/jlh7v6gYR/640/480",
+      "price": 5455,
+      "id": 27
+    },
+    {
+      "userid": 12,
+      "name": "Myrtice",
+      "pic1": "https://picsum.photos/seed/g1GA64I1Mn/640/480",
+      "pic2": "https://picsum.photos/seed/1XEbkrfaH/640/480",
+      "price": 2332,
+      "id": 28
+    },
+    {
+      "userid": 12,
+      "name": "Otis",
+      "pic1": "https://picsum.photos/seed/jzn9L/640/480",
+      "pic2": "https://picsum.photos/seed/JKN07XC73/640/480",
+      "price": 4375,
+      "id": 29
+    },
+    {
+      "userid": 12,
+      "name": "Rebecca",
+      "pic1": "https://picsum.photos/seed/N8IOhIoh/640/480",
+      "pic2": "https://picsum.photos/seed/chbud7aLZJ/640/480",
+      "price": 1760,
+      "id": 30
+    },
+    {
+      "userid": 12,
+      "name": "Dovie",
+      "pic1": "https://picsum.photos/seed/5MxSG/640/480",
+      "pic2": "https://picsum.photos/seed/f7md3Z/640/480",
+      "price": 3771,
+      "id": 31
+    },
+    {
+      "userid": 2,
+      "name": "Katharina",
+      "pic1": "https://picsum.photos/seed/yxa0CgCo6/640/480",
+      "pic2": "https://picsum.photos/seed/jlh7v6gYR/640/480",
+      "price": 5455,
+      "id": 32
+    },
+    {
+      "userid": 2,
+      "name": "Wilhelmine",
+      "pic1": "https://picsum.photos/seed/lSEduPk7J8/640/480",
+      "pic2": "https://picsum.photos/seed/vy8SYJZ/640/480",
+      "price": 3291,
+      "id": 33
+    },
+    {
+      "userid": 2,
+      "name": "Georgianna",
+      "pic1": "https://picsum.photos/seed/x4Zu2TW/640/480",
+      "pic2": "https://picsum.photos/seed/YRlcIq/640/480",
+      "price": 4310,
+      "id": 36
+    },
+    {
+      "userid": 0,
+      "name": "Rebecca",
+      "pic1": "https://picsum.photos/seed/N8IOhIoh/640/480",
+      "pic2": "https://picsum.photos/seed/chbud7aLZJ/640/480",
+      "price": 1760,
+      "id": 38
+    },
+    {
+      "userid": 1,
+      "name": "Devante",
+      "pic1": "https://picsum.photos/seed/ifY5QEj/640/480",
+      "pic2": "https://picsum.photos/seed/XLAQCGG/640/480",
+      "price": 5346,
+      "id": 39
+    }
+  ],
+  "gender": [
+    {
+      "id": 1,
+      "label": "WOMEN"
+    },
+    {
+      "id": 2,
+      "label": "MEN"
+    },
+    {
+      "id": 3,
+      "label": "JUNIORS"
+    }
+  ],
+  "gcollection": [
+    {
+      "gid": 2,
+      "label": "SHIRTS",
+      "pic": "https://avatars.githubusercontent.com/u/23554244",
+      "id": 1
+    },
+    {
+      "gid": 2,
+      "label": "T-SHIRTS",
+      "pic": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/591.jpg",
+      "id": 2
+    },
+    {
+      "gid": 2,
+      "label": "POLOS",
+      "pic": "https://avatars.githubusercontent.com/u/48104041",
+      "id": 3
+    },
+    {
+      "gid": 2,
+      "label": "ACTIVE - WEAR",
+      "pic": "https://avatars.githubusercontent.com/u/28833178",
+      "id": 4
+    },
+    {
+      "gid": 2,
+      "label": "TROUSERS",
+      "pic": "https://avatars.githubusercontent.com/u/79751351",
+      "id": 5
+    },
+    {
+      "gid": 2,
+      "label": "SHORTS",
+      "pic": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/159.jpg",
+      "id": 6
+    },
+    {
+      "gid": 2,
+      "label": "JEANS",
+      "pic": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/854.jpg",
+      "id": 7
+    },
+    {
+      "gid": 2,
+      "label": "SHOES",
+      "pic": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/226.jpg",
+      "id": 8
+    },
+    {
+      "gid": 2,
+      "label": "JACKETS",
+      "pic": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1139.jpg",
+      "id": 9
+    },
+    {
+      "gid": 2,
+      "label": "COATS | BLAZERS",
+      "pic": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/747.jpg",
+      "id": 10
+    },
+    {
+      "gid": 2,
+      "label": "SWEATSHIRTS | HOODIES",
+      "pic": "https://avatars.githubusercontent.com/u/49661448",
+      "id": 11
+    },
+    {
+      "gid": 2,
+      "label": "JACKETS | OVERSHIRTS",
+      "pic": "https://avatars.githubusercontent.com/u/42323877",
+      "id": 12
+    },
+    {
+      "gid": 2,
+      "label": "SWEATERS | CARDIGANS",
+      "pic": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/852.jpg",
+      "id": 13
+    },
+    {
+      "gid": 1,
+      "label": "SHIRTS | BLOUSES",
+      "pic": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/371.jpg",
+      "id": 14
+    },
+    {
+      "gid": 1,
+      "label": "T-SHIRTS",
+      "pic": "https://avatars.githubusercontent.com/u/97707574",
+      "id": 15
+    },
+    {
+      "gid": 1,
+      "label": "ACTIVE - WEAR",
+      "pic": "https://avatars.githubusercontent.com/u/8535029",
+      "id": 16
+    },
+    {
+      "gid": 1,
+      "label": "SKIRTS | SHORTS",
+      "pic": "https://avatars.githubusercontent.com/u/42869988",
+      "id": 17
+    },
+    {
+      "gid": 1,
+      "label": "JEANS",
+      "pic": "https://avatars.githubusercontent.com/u/46379410",
+      "id": 18
+    },
+    {
+      "gid": 1,
+      "label": "SHOES",
+      "pic": "https://avatars.githubusercontent.com/u/99236711",
+      "id": 19
+    },
+    {
+      "gid": 1,
+      "label": "JEANS",
+      "pic": "https://avatars.githubusercontent.com/u/18034207",
+      "id": 20
+    },
+    {
+      "gid": 1,
+      "label": "CO-ORD SETS",
+      "pic": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1166.jpg",
+      "id": 21
+    },
+    {
+      "gid": 1,
+      "label": "SWEATSHIRTS | HOODIES",
+      "pic": "https://avatars.githubusercontent.com/u/58172974",
+      "id": 22
+    },
+    {
+      "gid": 1,
+      "label": "COATS | BLAZERS",
+      "pic": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/593.jpg",
+      "id": 23
+    },
+    {
+      "gid": 1,
+      "label": "SWEATERS | CARDIGANS",
+      "pic": "https://avatars.githubusercontent.com/u/27603049",
+      "id": 24
+    },
+    {
+      "gid": 1,
+      "label": "SWEATSHIRTS | HOODIES",
+      "pic": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/579.jpg",
+      "id": 25
+    },
+    {
+      "gid": 1,
+      "label": "ACCESSORIES",
+      "pic": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/906.jpg",
+      "id": 26
+    },
+    {
+      "gid": 2,
+      "label": "ACCESSORIES",
+      "pic": "https://avatars.githubusercontent.com/u/72057854",
+      "id": 27
+    },
+    {
+      "gid": 3,
+      "label": "GIRLS(6Y - 14Y)",
+      "pic": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/74.jpg",
+      "id": 28
+    },
+    {
+      "gid": 3,
+      "label": "BOYS(6Y - 14Y)",
+      "pic": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/906.jpg",
+      "id": 29
+    },
+    {
+      "gid": 3,
+      "label": "BABY-BOY(6M - 5Y)",
+      "pic": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/185.jpg",
+      "id": 30
+    },
+    {
+      "gid": 3,
+      "label": "BABY-GIRL(6M - 5Y)",
+      "pic": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/154.jpg",
+      "id": 31
+    }
+  ],
+  "items": [
+    {
+      "tag": "SHIRTS",
+      "gcid": 1,
+      "name": "Raoul",
+      "pic1": "https://picsum.photos/seed/ZGxq8IP7/640/480",
+      "pic2": "https://picsum.photos/seed/aG0Lpbk/640/480",
+      "price": 5156,
+      "id": 1
+    },
+    {
+      "tag": "SHIRTS",
+      "gcid": 1,
+      "name": "Marlon",
+      "pic1": "https://picsum.photos/seed/aSI3v0/640/480",
+      "pic2": "https://picsum.photos/seed/QWTWJvO/640/480",
+      "price": 548,
+      "id": 2
+    },
+    {
+      "tag": "SHIRTS",
+      "gcid": 1,
+      "name": "Abbey",
+      "pic1": "https://picsum.photos/seed/VBh7et6b/640/480",
+      "pic2": "https://picsum.photos/seed/jOSDN1FA/640/480",
+      "price": 3205,
+      "id": 3
+    },
+    {
+      "tag": "SHIRTS",
+      "gcid": 1,
+      "name": "Hillary",
+      "pic1": "https://picsum.photos/seed/8gJ3vjGU/640/480",
+      "pic2": "https://picsum.photos/seed/oDkVru/640/480",
+      "price": 1769,
+      "id": 4
+    },
+    {
+      "tag": "SHIRTS",
+      "gcid": 1,
+      "name": "Agnes",
+      "pic1": "https://picsum.photos/seed/dw8dljJIVp/640/480",
+      "pic2": "https://picsum.photos/seed/0Z9Vo/640/480",
+      "price": 2390,
+      "id": 5
+    },
+    {
+      "tag": "SHIRTS",
+      "gcid": 1,
+      "name": "Jude",
+      "pic1": "https://picsum.photos/seed/Osw32N/640/480",
+      "pic2": "https://picsum.photos/seed/yt86St/640/480",
+      "price": 5235,
+      "id": 6
+    },
+    {
+      "tag": "SHIRTS",
+      "gcid": 1,
+      "name": "Therese",
+      "pic1": "https://picsum.photos/seed/rX5Ec0M/640/480",
+      "pic2": "https://picsum.photos/seed/ya50GpwvZ/640/480",
+      "price": 2496,
+      "id": 7
+    },
+    {
+      "tag": "SHIRTS",
+      "gcid": 1,
+      "name": "Lina",
+      "pic1": "https://picsum.photos/seed/1Jz4Lv/640/480",
+      "pic2": "https://picsum.photos/seed/KOkDCqkLc/640/480",
+      "price": 653,
+      "id": 8
+    },
+    {
+      "tag": "SHIRTS",
+      "gcid": 1,
+      "name": "Lawrence",
+      "pic1": "https://picsum.photos/seed/Qbb4oYT4/640/480",
+      "pic2": "https://picsum.photos/seed/Hu1UalM/640/480",
+      "price": 709,
+      "id": 9
+    },
+    {
+      "tag": "SHIRTS",
+      "gcid": 1,
+      "name": "Efren",
+      "pic1": "https://picsum.photos/seed/LUiT0hd/640/480",
+      "pic2": "https://picsum.photos/seed/0cBkNfJRJD/640/480",
+      "price": 3970,
+      "id": 10
+    },
+    {
+      "tag": "SHIRTS",
+      "gcid": 1,
+      "name": "Dean",
+      "pic1": "https://picsum.photos/seed/PQ6qBFnd83/640/480",
+      "pic2": "https://picsum.photos/seed/LCFjRx4ad/640/480",
+      "price": 2042,
+      "id": 11
+    },
+    {
+      "tag": "SHIRTS",
+      "gcid": 1,
+      "name": "Emelia",
+      "pic1": "https://picsum.photos/seed/OBtzJiF/640/480",
+      "pic2": "https://picsum.photos/seed/GSqwsKG4/640/480",
+      "price": 3577,
+      "id": 12
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 2,
+      "name": "Braulio",
+      "pic1": "https://picsum.photos/seed/iP8skGvsu/640/480",
+      "pic2": "https://picsum.photos/seed/WBxQeCev/640/480",
+      "price": 1866,
+      "id": 13
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 2,
+      "name": "Naomie",
+      "pic1": "https://picsum.photos/seed/VlPd3O00k/640/480",
+      "pic2": "https://picsum.photos/seed/mHMtOxwaK/640/480",
+      "price": 5305,
+      "id": 14
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 2,
+      "name": "Ava",
+      "pic1": "https://picsum.photos/seed/k9YkUl/640/480",
+      "pic2": "https://picsum.photos/seed/iTyCSy/640/480",
+      "price": 2894,
+      "id": 15
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 2,
+      "name": "Porter",
+      "pic1": "https://picsum.photos/seed/Tjax8/640/480",
+      "pic2": "https://picsum.photos/seed/vGR245tBw/640/480",
+      "price": 4358,
+      "id": 16
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 2,
+      "name": "Tod",
+      "pic1": "https://picsum.photos/seed/lfWaqswwd/640/480",
+      "pic2": "https://picsum.photos/seed/noQ1o45bOx/640/480",
+      "price": 2894,
+      "id": 17
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 2,
+      "name": "Carissa",
+      "pic1": "https://picsum.photos/seed/nAMG7gxgH/640/480",
+      "pic2": "https://picsum.photos/seed/aAVayIeU4/640/480",
+      "price": 2915,
+      "id": 18
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 2,
+      "name": "Nyasia",
+      "pic1": "https://picsum.photos/seed/nPPctZxx/640/480",
+      "pic2": "https://picsum.photos/seed/56qxl/640/480",
+      "price": 3774,
+      "id": 19
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 2,
+      "name": "Travon",
+      "pic1": "https://picsum.photos/seed/MFWituLVdB/640/480",
+      "pic2": "https://picsum.photos/seed/yf3GWAv/640/480",
+      "price": 1047,
+      "id": 20
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 2,
+      "name": "Clemens",
+      "pic1": "https://picsum.photos/seed/J2txgUfZxG/640/480",
+      "pic2": "https://picsum.photos/seed/sdcBBvI50/640/480",
+      "price": 956,
+      "id": 21
+    },
+    {
+      "tag": "POLOS",
+      "gcid": 3,
+      "name": "Claudine",
+      "pic1": "https://picsum.photos/seed/2mSaZAV/640/480",
+      "pic2": "https://picsum.photos/seed/2jHKEGK4/640/480",
+      "price": 1095,
+      "id": 22
+    },
+    {
+      "tag": "POLOS",
+      "gcid": 3,
+      "name": "Maxine",
+      "pic1": "https://picsum.photos/seed/q6UHO/640/480",
+      "pic2": "https://picsum.photos/seed/KyNf1NvJJ/640/480",
+      "price": 5225,
+      "id": 23
+    },
+    {
+      "tag": "POLOS",
+      "gcid": 3,
+      "name": "Howard",
+      "pic1": "https://picsum.photos/seed/Na2ZgUP/640/480",
+      "pic2": "https://picsum.photos/seed/NRqddNGv/640/480",
+      "price": 4211,
+      "id": 24
+    },
+    {
+      "tag": "POLOS",
+      "gcid": 3,
+      "name": "Carlee",
+      "pic1": "https://picsum.photos/seed/o4crwpjph/640/480",
+      "pic2": "https://picsum.photos/seed/Org1dP1q0/640/480",
+      "price": 2468,
+      "id": 25
+    },
+    {
+      "tag": "POLOS",
+      "gcid": 3,
+      "name": "Eladio",
+      "pic1": "https://picsum.photos/seed/IXycrdVn/640/480",
+      "pic2": "https://picsum.photos/seed/y7zN1/640/480",
+      "price": 833,
+      "id": 26
+    },
+    {
+      "tag": "POLOS",
+      "gcid": 3,
+      "name": "Henderson",
+      "pic1": "https://picsum.photos/seed/pR5O8/640/480",
+      "pic2": "https://picsum.photos/seed/lHZNcaP/640/480",
+      "price": 2497,
+      "id": 27
+    },
+    {
+      "tag": "POLOS",
+      "gcid": 3,
+      "name": "Humberto",
+      "pic1": "https://picsum.photos/seed/ylV2X/640/480",
+      "pic2": "https://picsum.photos/seed/zzq3YRef/640/480",
+      "price": 1595,
+      "id": 28
+    },
+    {
+      "tag": "POLOS",
+      "gcid": 3,
+      "name": "Collin",
+      "pic1": "https://picsum.photos/seed/f0OVG/640/480",
+      "pic2": "https://picsum.photos/seed/t78VNg/640/480",
+      "price": 4477,
+      "id": 29
+    },
+    {
+      "tag": "POLOS",
+      "gcid": 3,
+      "name": "Teresa",
+      "pic1": "https://picsum.photos/seed/3S6yzd8G/640/480",
+      "pic2": "https://picsum.photos/seed/GFZ07LX3/640/480",
+      "price": 1580,
+      "id": 30
+    },
+    {
+      "tag": "POLOS",
+      "gcid": 3,
+      "name": "Orrin",
+      "pic1": "https://picsum.photos/seed/Wt2ySZAKS/640/480",
+      "pic2": "https://picsum.photos/seed/eG8hXK/640/480",
+      "price": 4996,
+      "id": 31
+    },
+    {
+      "tag": "POLOS",
+      "gcid": 3,
+      "name": "Leonie",
+      "pic1": "https://picsum.photos/seed/tWZtJF/640/480",
+      "pic2": "https://picsum.photos/seed/ILamrXU/640/480",
+      "price": 581,
+      "id": 32
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 4,
+      "name": "Aniyah",
+      "pic1": "https://picsum.photos/seed/QpZ9xs6/640/480",
+      "pic2": "https://picsum.photos/seed/oebhxq7TVt/640/480",
+      "price": 4878,
+      "id": 33
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 4,
+      "name": "Deshaun",
+      "pic1": "https://picsum.photos/seed/1GUpJcVc/640/480",
+      "pic2": "https://picsum.photos/seed/IrVJSp/640/480",
+      "price": 4346,
+      "id": 34
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 4,
+      "name": "Madie",
+      "pic1": "https://picsum.photos/seed/pEDKK/640/480",
+      "pic2": "https://picsum.photos/seed/TkySHnwlpe/640/480",
+      "price": 2367,
+      "id": 35
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 4,
+      "name": "Devante",
+      "pic1": "https://picsum.photos/seed/ifY5QEj/640/480",
+      "pic2": "https://picsum.photos/seed/XLAQCGG/640/480",
+      "price": 5346,
+      "id": 36
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 4,
+      "name": "Eldon",
+      "pic1": "https://picsum.photos/seed/1Bf11yfw/640/480",
+      "pic2": "https://picsum.photos/seed/FfbkszXuI/640/480",
+      "price": 2829,
+      "id": 37
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 4,
+      "name": "Roderick",
+      "pic1": "https://picsum.photos/seed/tuXXq/640/480",
+      "pic2": "https://picsum.photos/seed/ldRpD0q/640/480",
+      "price": 4271,
+      "id": 38
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 4,
+      "name": "Steve",
+      "pic1": "https://picsum.photos/seed/BXhb5ux0T/640/480",
+      "pic2": "https://picsum.photos/seed/Z3KfiJ/640/480",
+      "price": 1185,
+      "id": 39
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 4,
+      "name": "Ahmed",
+      "pic1": "https://picsum.photos/seed/Cu9xzl55/640/480",
+      "pic2": "https://picsum.photos/seed/wLEtQ/640/480",
+      "price": 4519,
+      "id": 40
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 4,
+      "name": "Damian",
+      "pic1": "https://picsum.photos/seed/K8WWiy8YK/640/480",
+      "pic2": "https://picsum.photos/seed/PpYLHc/640/480",
+      "price": 2101,
+      "id": 41
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 4,
+      "name": "Kennedy",
+      "pic1": "https://picsum.photos/seed/VytCZLwFbr/640/480",
+      "pic2": "https://picsum.photos/seed/rEZCgu/640/480",
+      "price": 4076,
+      "id": 42
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 4,
+      "name": "Erling",
+      "pic1": "https://picsum.photos/seed/rzckJTTwKn/640/480",
+      "pic2": "https://picsum.photos/seed/w9dYa9aiID/640/480",
+      "price": 4463,
+      "id": 43
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 4,
+      "name": "Reinhold",
+      "pic1": "https://picsum.photos/seed/3inO0/640/480",
+      "pic2": "https://picsum.photos/seed/5VLncrt/640/480",
+      "price": 4874,
+      "id": 44
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 4,
+      "name": "Blair",
+      "pic1": "https://picsum.photos/seed/5ysv3PA0x/640/480",
+      "pic2": "https://picsum.photos/seed/wJYgveVQMk/640/480",
+      "price": 4370,
+      "id": 45
+    },
+    {
+      "tag": "TROUSERS",
+      "gcid": 5,
+      "name": "Elyse",
+      "pic1": "https://picsum.photos/seed/lgo3NP4X/640/480",
+      "pic2": "https://picsum.photos/seed/e2zf9PMxss/640/480",
+      "price": 3038,
+      "id": 46
+    },
+    {
+      "tag": "TROUSERS",
+      "gcid": 5,
+      "name": "Katharina",
+      "pic1": "https://picsum.photos/seed/yxa0CgCo6/640/480",
+      "pic2": "https://picsum.photos/seed/jlh7v6gYR/640/480",
+      "price": 5455,
+      "id": 47
+    },
+    {
+      "tag": "TROUSERS",
+      "gcid": 5,
+      "name": "Wilhelmine",
+      "pic1": "https://picsum.photos/seed/lSEduPk7J8/640/480",
+      "pic2": "https://picsum.photos/seed/vy8SYJZ/640/480",
+      "price": 3291,
+      "id": 48
+    },
+    {
+      "tag": "TROUSERS",
+      "gcid": 5,
+      "name": "Clay",
+      "pic1": "https://picsum.photos/seed/cSQRDVs/640/480",
+      "pic2": "https://picsum.photos/seed/TQt04/640/480",
+      "price": 5457,
+      "id": 49
+    },
+    {
+      "tag": "TROUSERS",
+      "gcid": 5,
+      "name": "Asha",
+      "pic1": "https://picsum.photos/seed/qgIKlmHGt/640/480",
+      "pic2": "https://picsum.photos/seed/TKRH9/640/480",
+      "price": 675,
+      "id": 50
+    },
+    {
+      "tag": "TROUSERS",
+      "gcid": 5,
+      "name": "Declan",
+      "pic1": "https://picsum.photos/seed/k68khPp/640/480",
+      "pic2": "https://picsum.photos/seed/h7uYzmsY/640/480",
+      "price": 1858,
+      "id": 51
+    },
+    {
+      "tag": "TROUSERS",
+      "gcid": 5,
+      "name": "Bryon",
+      "pic1": "https://picsum.photos/seed/uJMhPSGZzV/640/480",
+      "pic2": "https://picsum.photos/seed/KaxwI2/640/480",
+      "price": 3086,
+      "id": 52
+    },
+    {
+      "tag": "TROUSERS",
+      "gcid": 5,
+      "name": "Gennaro",
+      "pic1": "https://picsum.photos/seed/CN6m3QT/640/480",
+      "pic2": "https://picsum.photos/seed/rSsgdaubP/640/480",
+      "price": 3616,
+      "id": 53
+    },
+    {
+      "tag": "TROUSERS",
+      "gcid": 5,
+      "name": "Hubert",
+      "pic1": "https://picsum.photos/seed/BvQ9zLO9R/640/480",
+      "pic2": "https://picsum.photos/seed/aGnfTPeBXb/640/480",
+      "price": 3096,
+      "id": 54
+    },
+    {
+      "tag": "TROUSERS",
+      "gcid": 5,
+      "name": "Kaia",
+      "pic1": "https://picsum.photos/seed/p3sjsttGsb/640/480",
+      "pic2": "https://picsum.photos/seed/pHroVz3bK/640/480",
+      "price": 2755,
+      "id": 55
+    },
+    {
+      "tag": "SHORTS",
+      "gcid": 6,
+      "name": "Georgiana",
+      "pic1": "https://picsum.photos/seed/AylP6Z7VE/640/480",
+      "pic2": "https://picsum.photos/seed/j51SlOAgb/640/480",
+      "price": 3869,
+      "id": 56
+    },
+    {
+      "tag": "SHORTS",
+      "gcid": 6,
+      "name": "Ashleigh",
+      "pic1": "https://picsum.photos/seed/v3cEOS9mM9/640/480",
+      "pic2": "https://picsum.photos/seed/LB5S4ikB2E/640/480",
+      "price": 2319,
+      "id": 57
+    },
+    {
+      "tag": "SHORTS",
+      "gcid": 6,
+      "name": "Nova",
+      "pic1": "https://picsum.photos/seed/jr8UcQR2QM/640/480",
+      "pic2": "https://picsum.photos/seed/cfKtDZIyt7/640/480",
+      "price": 3232,
+      "id": 58
+    },
+    {
+      "tag": "SHORTS",
+      "gcid": 6,
+      "name": "Verda",
+      "pic1": "https://picsum.photos/seed/7BqmgeTn/640/480",
+      "pic2": "https://picsum.photos/seed/GOf5nEtI/640/480",
+      "price": 1547,
+      "id": 59
+    },
+    {
+      "tag": "SHORTS",
+      "gcid": 6,
+      "name": "Montana",
+      "pic1": "https://picsum.photos/seed/d9nZy/640/480",
+      "pic2": "https://picsum.photos/seed/IBPmnO6hG/640/480",
+      "price": 3393,
+      "id": 60
+    },
+    {
+      "tag": "SHORTS",
+      "gcid": 6,
+      "name": "Rhea",
+      "pic1": "https://picsum.photos/seed/c8uNmH5n/640/480",
+      "pic2": "https://picsum.photos/seed/3EeSUO/640/480",
+      "price": 3462,
+      "id": 61
+    },
+    {
+      "tag": "SHORTS",
+      "gcid": 6,
+      "name": "Ransom",
+      "pic1": "https://picsum.photos/seed/DXHvO6eMm/640/480",
+      "pic2": "https://picsum.photos/seed/xLjYT6f/640/480",
+      "price": 1481,
+      "id": 62
+    },
+    {
+      "tag": "SHORTS",
+      "gcid": 6,
+      "name": "Bernardo",
+      "pic1": "https://picsum.photos/seed/y2gpTzTD9h/640/480",
+      "pic2": "https://picsum.photos/seed/mRBiHQR/640/480",
+      "price": 4357,
+      "id": 63
+    },
+    {
+      "tag": "SHORTS",
+      "gcid": 6,
+      "name": "Lavonne",
+      "pic1": "https://picsum.photos/seed/ILxFlnxH7/640/480",
+      "pic2": "https://picsum.photos/seed/wY0iA36Q1/640/480",
+      "price": 1689,
+      "id": 64
+    },
+    {
+      "tag": "SHORTS",
+      "gcid": 6,
+      "name": "Katharina",
+      "pic1": "https://picsum.photos/seed/dWo0VwzNI/640/480",
+      "pic2": "https://picsum.photos/seed/cX5jAv/640/480",
+      "price": 2309,
+      "id": 65
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 7,
+      "name": "Isidro",
+      "pic1": "https://picsum.photos/seed/kPqIvnz/640/480",
+      "pic2": "https://picsum.photos/seed/h55rYLsL26/640/480",
+      "price": 3342,
+      "id": 66
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 7,
+      "name": "Cale",
+      "pic1": "https://picsum.photos/seed/oTxNgy/640/480",
+      "pic2": "https://picsum.photos/seed/TVzSOyFByf/640/480",
+      "price": 4215,
+      "id": 67
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 7,
+      "name": "Keagan",
+      "pic1": "https://picsum.photos/seed/xcOsvf/640/480",
+      "pic2": "https://picsum.photos/seed/ZJftpnKz/640/480",
+      "price": 1036,
+      "id": 68
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 7,
+      "name": "Meredith",
+      "pic1": "https://picsum.photos/seed/yWEcJyj/640/480",
+      "pic2": "https://picsum.photos/seed/ARoQFYJV/640/480",
+      "price": 1455,
+      "id": 69
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 7,
+      "name": "Leonora",
+      "pic1": "https://picsum.photos/seed/JsmuZ/640/480",
+      "pic2": "https://picsum.photos/seed/lFYGeUhutE/640/480",
+      "price": 1827,
+      "id": 70
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 7,
+      "name": "Shaun",
+      "pic1": "https://picsum.photos/seed/tlZJmnPBio/640/480",
+      "pic2": "https://picsum.photos/seed/3hRcSuP3ka/640/480",
+      "price": 2079,
+      "id": 71
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 7,
+      "name": "Bradly",
+      "pic1": "https://picsum.photos/seed/Td6bQckxV/640/480",
+      "pic2": "https://picsum.photos/seed/4UAhIj/640/480",
+      "price": 4957,
+      "id": 72
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 7,
+      "name": "Brandt",
+      "pic1": "https://picsum.photos/seed/EveVXRw/640/480",
+      "pic2": "https://picsum.photos/seed/iVVYida1O/640/480",
+      "price": 5318,
+      "id": 73
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 7,
+      "name": "Sanford",
+      "pic1": "https://picsum.photos/seed/Iqe2Fu6xdW/640/480",
+      "pic2": "https://picsum.photos/seed/cTxnGw/640/480",
+      "price": 1994,
+      "id": 74
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 7,
+      "name": "Furman",
+      "pic1": "https://picsum.photos/seed/pm0O0X3/640/480",
+      "pic2": "https://picsum.photos/seed/lOKOv70Ie/640/480",
+      "price": 3667,
+      "id": 75
+    },
+    {
+      "tag": "SHOES",
+      "gcid": 8,
+      "name": "Luna",
+      "pic1": "https://picsum.photos/seed/MDu7zL8/640/480",
+      "pic2": "https://picsum.photos/seed/E9BDC/640/480",
+      "price": 3699,
+      "id": 76
+    },
+    {
+      "tag": "SHOES",
+      "gcid": 8,
+      "name": "Timothy",
+      "pic1": "https://picsum.photos/seed/G21qdYCP/640/480",
+      "pic2": "https://picsum.photos/seed/i27UtLP/640/480",
+      "price": 2745,
+      "id": 77
+    },
+    {
+      "tag": "SHOES",
+      "gcid": 8,
+      "name": "Tad",
+      "pic1": "https://picsum.photos/seed/Vb55Msl3/640/480",
+      "pic2": "https://picsum.photos/seed/0zAuXG5f/640/480",
+      "price": 951,
+      "id": 78
+    },
+    {
+      "tag": "SHOES",
+      "gcid": 8,
+      "name": "Darien",
+      "pic1": "https://picsum.photos/seed/IriSO4/640/480",
+      "pic2": "https://picsum.photos/seed/8DXBz/640/480",
+      "price": 1654,
+      "id": 79
+    },
+    {
+      "tag": "SHOES",
+      "gcid": 8,
+      "name": "Arvel",
+      "pic1": "https://picsum.photos/seed/pPJLcJzAxe/640/480",
+      "pic2": "https://picsum.photos/seed/ovIskx3Dw/640/480",
+      "price": 3353,
+      "id": 80
+    },
+    {
+      "tag": "SHOES",
+      "gcid": 8,
+      "name": "Eldred",
+      "pic1": "https://picsum.photos/seed/rpph2f/640/480",
+      "pic2": "https://picsum.photos/seed/8vKPxJC6Am/640/480",
+      "price": 2576,
+      "id": 81
+    },
+    {
+      "tag": "SHOES",
+      "gcid": 8,
+      "name": "Armani",
+      "pic1": "https://picsum.photos/seed/UYFsB/640/480",
+      "pic2": "https://picsum.photos/seed/AglZ7uVo0Z/640/480",
+      "price": 2213,
+      "id": 82
+    },
+    {
+      "tag": "SHOES",
+      "gcid": 8,
+      "name": "Maxwell",
+      "pic1": "https://picsum.photos/seed/QlLqdJPn5/640/480",
+      "pic2": "https://picsum.photos/seed/BmRWv/640/480",
+      "price": 699,
+      "id": 83
+    },
+    {
+      "tag": "SHOES",
+      "gcid": 8,
+      "name": "Augustus",
+      "pic1": "https://picsum.photos/seed/K7Frrb7vWY/640/480",
+      "pic2": "https://picsum.photos/seed/JZTY9QxL/640/480",
+      "price": 5034,
+      "id": 84
+    },
+    {
+      "tag": "SHOES",
+      "gcid": 8,
+      "name": "Leonel",
+      "pic1": "https://picsum.photos/seed/eMKyNFO/640/480",
+      "pic2": "https://picsum.photos/seed/U1ERW/640/480",
+      "price": 2223,
+      "id": 85
+    },
+    {
+      "tag": "JACKETS",
+      "gcid": 9,
+      "name": "Dovie",
+      "pic1": "https://picsum.photos/seed/5MxSG/640/480",
+      "pic2": "https://picsum.photos/seed/f7md3Z/640/480",
+      "price": 3771,
+      "id": 86
+    },
+    {
+      "tag": "JACKETS",
+      "gcid": 9,
+      "name": "Rebecca",
+      "pic1": "https://picsum.photos/seed/N8IOhIoh/640/480",
+      "pic2": "https://picsum.photos/seed/chbud7aLZJ/640/480",
+      "price": 1760,
+      "id": 87
+    },
+    {
+      "tag": "JACKETS",
+      "gcid": 9,
+      "name": "Myrtice",
+      "pic1": "https://picsum.photos/seed/g1GA64I1Mn/640/480",
+      "pic2": "https://picsum.photos/seed/1XEbkrfaH/640/480",
+      "price": 2332,
+      "id": 88
+    },
+    {
+      "tag": "JACKETS",
+      "gcid": 9,
+      "name": "Otis",
+      "pic1": "https://picsum.photos/seed/jzn9L/640/480",
+      "pic2": "https://picsum.photos/seed/JKN07XC73/640/480",
+      "price": 4375,
+      "id": 89
+    },
+    {
+      "tag": "JACKETS",
+      "gcid": 9,
+      "name": "Laurie",
+      "pic1": "https://picsum.photos/seed/PAoTV2m5Tj/640/480",
+      "pic2": "https://picsum.photos/seed/ITdpuARm/640/480",
+      "price": 3205,
+      "id": 90
+    },
+    {
+      "tag": "JACKETS",
+      "gcid": 9,
+      "name": "Gilbert",
+      "pic1": "https://picsum.photos/seed/N7q4kFBI/640/480",
+      "pic2": "https://picsum.photos/seed/wkeYhkw/640/480",
+      "price": 5046,
+      "id": 91
+    },
+    {
+      "tag": "JACKETS",
+      "gcid": 9,
+      "name": "Arnold",
+      "pic1": "https://picsum.photos/seed/vQoKfoO/640/480",
+      "pic2": "https://picsum.photos/seed/JBc2j6/640/480",
+      "price": 4723,
+      "id": 92
+    },
+    {
+      "tag": "JACKETS",
+      "gcid": 9,
+      "name": "Michele",
+      "pic1": "https://picsum.photos/seed/a1pTh/640/480",
+      "pic2": "https://picsum.photos/seed/gciXb8/640/480",
+      "price": 2976,
+      "id": 93
+    },
+    {
+      "tag": "JACKETS",
+      "gcid": 9,
+      "name": "Nelda",
+      "pic1": "https://picsum.photos/seed/CYdf0/640/480",
+      "pic2": "https://picsum.photos/seed/nAToC8w5jB/640/480",
+      "price": 2904,
+      "id": 94
+    },
+    {
+      "tag": "JACKETS",
+      "gcid": 9,
+      "name": "Constantin",
+      "pic1": "https://picsum.photos/seed/AED0I/640/480",
+      "pic2": "https://picsum.photos/seed/jIQXf6nVp/640/480",
+      "price": 2717,
+      "id": 95
+    },
+    {
+      "tag": "COATS | BLAZERS",
+      "gcid": 10,
+      "name": "Elsie",
+      "pic1": "https://picsum.photos/seed/C6RBU/640/480",
+      "pic2": "https://picsum.photos/seed/34S2Z8Pi/640/480",
+      "price": 4923,
+      "id": 96
+    },
+    {
+      "tag": "COATS | BLAZERS",
+      "gcid": 10,
+      "name": "Sally",
+      "pic1": "https://picsum.photos/seed/QeZO23O0/640/480",
+      "pic2": "https://picsum.photos/seed/Z89nKXvi/640/480",
+      "price": 4830,
+      "id": 97
+    },
+    {
+      "tag": "COATS | BLAZERS",
+      "gcid": 10,
+      "name": "Alessandra",
+      "pic1": "https://picsum.photos/seed/HkqyWP/640/480",
+      "pic2": "https://picsum.photos/seed/G0i8tGJW/640/480",
+      "price": 2699,
+      "id": 98
+    },
+    {
+      "tag": "COATS | BLAZERS",
+      "gcid": 10,
+      "name": "Consuelo",
+      "pic1": "https://picsum.photos/seed/nAUJf/640/480",
+      "pic2": "https://picsum.photos/seed/60ybM2AH/640/480",
+      "price": 756,
+      "id": 99
+    },
+    {
+      "tag": "COATS | BLAZERS",
+      "gcid": 10,
+      "name": "Travon",
+      "pic1": "https://picsum.photos/seed/4uiMMdI16/640/480",
+      "pic2": "https://picsum.photos/seed/NlLi8BA9Q6/640/480",
+      "price": 3591,
+      "id": 100
+    },
+    {
+      "tag": "COATS | BLAZERS",
+      "gcid": 10,
+      "name": "Vinnie",
+      "pic1": "https://picsum.photos/seed/CWuYSAa7G/640/480",
+      "pic2": "https://picsum.photos/seed/kiAnV/640/480",
+      "price": 4563,
+      "id": 101
+    },
+    {
+      "tag": "COATS | BLAZERS",
+      "gcid": 10,
+      "name": "Magali",
+      "pic1": "https://picsum.photos/seed/Vi3VOAT/640/480",
+      "pic2": "https://picsum.photos/seed/SetaesU/640/480",
+      "price": 1742,
+      "id": 102
+    },
+    {
+      "tag": "COATS | BLAZERS",
+      "gcid": 10,
+      "name": "Paris",
+      "pic1": "https://picsum.photos/seed/bumQwS/640/480",
+      "pic2": "https://picsum.photos/seed/XeXwBTbWm/640/480",
+      "price": 4871,
+      "id": 103
+    },
+    {
+      "tag": "COATS | BLAZERS",
+      "gcid": 10,
+      "name": "Josefina",
+      "pic1": "https://picsum.photos/seed/5cxNL/640/480",
+      "pic2": "https://picsum.photos/seed/HNPp7Xm5/640/480",
+      "price": 1582,
+      "id": 104
+    },
+    {
+      "tag": "COATS | BLAZERS",
+      "gcid": 10,
+      "name": "Odie",
+      "pic1": "https://picsum.photos/seed/Zl7lW1I/640/480",
+      "pic2": "https://picsum.photos/seed/SAwCQ/640/480",
+      "price": 856,
+      "id": 105
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 11,
+      "name": "Lucius",
+      "pic1": "https://picsum.photos/seed/cojg1HXx/640/480",
+      "pic2": "https://picsum.photos/seed/dko8Fk/640/480",
+      "price": 4773,
+      "id": 106
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 11,
+      "name": "Laurence",
+      "pic1": "https://picsum.photos/seed/4iwa35UqO/640/480",
+      "pic2": "https://picsum.photos/seed/ecTuhub/640/480",
+      "price": 3638,
+      "id": 107
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 11,
+      "name": "Gregorio",
+      "pic1": "https://picsum.photos/seed/NyB0My8FA/640/480",
+      "pic2": "https://picsum.photos/seed/8evvFjax/640/480",
+      "price": 1419,
+      "id": 108
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 11,
+      "name": "Hiram",
+      "pic1": "https://picsum.photos/seed/qA0Mh0ap/640/480",
+      "pic2": "https://picsum.photos/seed/q6YDBqFe/640/480",
+      "price": 4425,
+      "id": 109
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 11,
+      "name": "Rebeka",
+      "pic1": "https://picsum.photos/seed/TWP3oBWNBX/640/480",
+      "pic2": "https://picsum.photos/seed/ChPK6VFMtS/640/480",
+      "price": 2604,
+      "id": 110
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 11,
+      "name": "Antonetta",
+      "pic1": "https://picsum.photos/seed/AZaGTLfp/640/480",
+      "pic2": "https://picsum.photos/seed/IAKLq6z3X/640/480",
+      "price": 2082,
+      "id": 111
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 11,
+      "name": "Betsy",
+      "pic1": "https://picsum.photos/seed/zqP1muxtvB/640/480",
+      "pic2": "https://picsum.photos/seed/oYBW5ySxdB/640/480",
+      "price": 5134,
+      "id": 112
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 11,
+      "name": "Candace",
+      "pic1": "https://picsum.photos/seed/GADwzx/640/480",
+      "pic2": "https://picsum.photos/seed/XFRH3/640/480",
+      "price": 1655,
+      "id": 113
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 11,
+      "name": "Dora",
+      "pic1": "https://picsum.photos/seed/dvD6rRMSua/640/480",
+      "pic2": "https://picsum.photos/seed/Yh1xl/640/480",
+      "price": 1248,
+      "id": 114
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 11,
+      "name": "Birdie",
+      "pic1": "https://picsum.photos/seed/PT9YYNp/640/480",
+      "pic2": "https://picsum.photos/seed/chZUsmCT4n/640/480",
+      "price": 1079,
+      "id": 115
+    },
+    {
+      "tag": "JACKETS | OVERSHIRTS",
+      "gcid": 12,
+      "name": "Elouise",
+      "pic1": "https://picsum.photos/seed/cOoBlCB/640/480",
+      "pic2": "https://picsum.photos/seed/w45hr/640/480",
+      "price": 2509,
+      "id": 116
+    },
+    {
+      "tag": "JACKETS | OVERSHIRTS",
+      "gcid": 12,
+      "name": "Kaelyn",
+      "pic1": "https://picsum.photos/seed/9BFuBBAIk/640/480",
+      "pic2": "https://picsum.photos/seed/LnRnxX9yG/640/480",
+      "price": 4285,
+      "id": 117
+    },
+    {
+      "tag": "JACKETS | OVERSHIRTS",
+      "gcid": 12,
+      "name": "Stephanie",
+      "pic1": "https://picsum.photos/seed/lYCYIoiZy/640/480",
+      "pic2": "https://picsum.photos/seed/B3Wgox/640/480",
+      "price": 985,
+      "id": 118
+    },
+    {
+      "tag": "JACKETS | OVERSHIRTS",
+      "gcid": 12,
+      "name": "Agnes",
+      "pic1": "https://picsum.photos/seed/nhjC1LK/640/480",
+      "pic2": "https://picsum.photos/seed/pKBWZ2/640/480",
+      "price": 5107,
+      "id": 119
+    },
+    {
+      "tag": "JACKETS | OVERSHIRTS",
+      "gcid": 12,
+      "name": "Lambert",
+      "pic1": "https://picsum.photos/seed/5LwZzlT/640/480",
+      "pic2": "https://picsum.photos/seed/8MTyMdj7/640/480",
+      "price": 1387,
+      "id": 120
+    },
+    {
+      "tag": "JACKETS | OVERSHIRTS",
+      "gcid": 12,
+      "name": "Isaias",
+      "pic1": "https://picsum.photos/seed/Whj44/640/480",
+      "pic2": "https://picsum.photos/seed/GmeVmwu/640/480",
+      "price": 4956,
+      "id": 121
+    },
+    {
+      "tag": "JACKETS | OVERSHIRTS",
+      "gcid": 12,
+      "name": "Abigayle",
+      "pic1": "https://picsum.photos/seed/jtyLx/640/480",
+      "pic2": "https://picsum.photos/seed/m2VIIXgc/640/480",
+      "price": 875,
+      "id": 122
+    },
+    {
+      "tag": "JACKETS | OVERSHIRTS",
+      "gcid": 12,
+      "name": "Rodrick",
+      "pic1": "https://picsum.photos/seed/B0PgfLzdi/640/480",
+      "pic2": "https://picsum.photos/seed/jhWwnDwgb4/640/480",
+      "price": 1798,
+      "id": 123
+    },
+    {
+      "tag": "JACKETS | OVERSHIRTS",
+      "gcid": 12,
+      "name": "Kaylah",
+      "pic1": "https://picsum.photos/seed/IfBITGoc/640/480",
+      "pic2": "https://picsum.photos/seed/GJ1noO/640/480",
+      "price": 3739,
+      "id": 124
+    },
+    {
+      "tag": "JACKETS | OVERSHIRTS",
+      "gcid": 12,
+      "name": "Emerson",
+      "pic1": "https://picsum.photos/seed/k2xDv1/640/480",
+      "pic2": "https://picsum.photos/seed/Im0qRAUd/640/480",
+      "price": 2708,
+      "id": 125
+    },
+    {
+      "tag": "SWEATERS | CARDIGANS",
+      "gcid": 13,
+      "name": "Elvis",
+      "pic1": "https://picsum.photos/seed/t1Bpk6F/640/480",
+      "pic2": "https://picsum.photos/seed/YRK7SbnJR/640/480",
+      "price": 2484,
+      "id": 126
+    },
+    {
+      "tag": "SWEATERS | CARDIGANS",
+      "gcid": 13,
+      "name": "Lola",
+      "pic1": "https://picsum.photos/seed/yybMC/640/480",
+      "pic2": "https://picsum.photos/seed/IHnfx/640/480",
+      "price": 2449,
+      "id": 127
+    },
+    {
+      "tag": "SWEATERS | CARDIGANS",
+      "gcid": 13,
+      "name": "Rodger",
+      "pic1": "https://picsum.photos/seed/2xqqkh2S/640/480",
+      "pic2": "https://picsum.photos/seed/NBHJVTybt/640/480",
+      "price": 2641,
+      "id": 128
+    },
+    {
+      "tag": "SWEATERS | CARDIGANS",
+      "gcid": 13,
+      "name": "Danny",
+      "pic1": "https://picsum.photos/seed/4VZXr/640/480",
+      "pic2": "https://picsum.photos/seed/SotL2YAU/640/480",
+      "price": 2490,
+      "id": 129
+    },
+    {
+      "tag": "SWEATERS | CARDIGANS",
+      "gcid": 13,
+      "name": "Arianna",
+      "pic1": "https://picsum.photos/seed/Ae4l79rt/640/480",
+      "pic2": "https://picsum.photos/seed/IwLGnWu/640/480",
+      "price": 2958,
+      "id": 130
+    },
+    {
+      "tag": "SWEATERS | CARDIGANS",
+      "gcid": 13,
+      "name": "Angelo",
+      "pic1": "https://picsum.photos/seed/WaB1JwF/640/480",
+      "pic2": "https://picsum.photos/seed/xecbzZ/640/480",
+      "price": 1183,
+      "id": 131
+    },
+    {
+      "tag": "SWEATERS | CARDIGANS",
+      "gcid": 13,
+      "name": "Letitia",
+      "pic1": "https://picsum.photos/seed/pwcGNAbe/640/480",
+      "pic2": "https://picsum.photos/seed/LjcW9/640/480",
+      "price": 3567,
+      "id": 132
+    },
+    {
+      "tag": "SWEATERS | CARDIGANS",
+      "gcid": 13,
+      "name": "Twila",
+      "pic1": "https://picsum.photos/seed/gAIik1K/640/480",
+      "pic2": "https://picsum.photos/seed/4uPPICH4T9/640/480",
+      "price": 4554,
+      "id": 133
+    },
+    {
+      "tag": "SWEATERS | CARDIGANS",
+      "gcid": 13,
+      "name": "Morris",
+      "pic1": "https://picsum.photos/seed/qpnKRD1/640/480",
+      "pic2": "https://picsum.photos/seed/7XEnCgj0n/640/480",
+      "price": 1510,
+      "id": 134
+    },
+    {
+      "tag": "SWEATERS | CARDIGANS",
+      "gcid": 13,
+      "name": "Dion",
+      "pic1": "https://picsum.photos/seed/tYo7Ohd/640/480",
+      "pic2": "https://picsum.photos/seed/n0vpPSRSPU/640/480",
+      "price": 3367,
+      "id": 135
+    },
+    {
+      "tag": "ACCESSORIES",
+      "gcid": 27,
+      "name": "Leta",
+      "pic1": "https://picsum.photos/seed/x2HeG/640/480",
+      "pic2": "https://picsum.photos/seed/ji5te/640/480",
+      "price": 4579,
+      "id": 136
+    },
+    {
+      "tag": "ACCESSORIES",
+      "gcid": 27,
+      "name": "Courtney",
+      "pic1": "https://picsum.photos/seed/GfXDMBIGi6/640/480",
+      "pic2": "https://picsum.photos/seed/YblPJLA/640/480",
+      "price": 3620,
+      "id": 137
+    },
+    {
+      "tag": "ACCESSORIES",
+      "gcid": 27,
+      "name": "Ransom",
+      "pic1": "https://picsum.photos/seed/izPiVxO/640/480",
+      "pic2": "https://picsum.photos/seed/58T34CFj/640/480",
+      "price": 974,
+      "id": 138
+    },
+    {
+      "tag": "ACCESSORIES",
+      "gcid": 27,
+      "name": "Shany",
+      "pic1": "https://picsum.photos/seed/bgTGWFYL93/640/480",
+      "pic2": "https://picsum.photos/seed/o8p08DrD/640/480",
+      "price": 745,
+      "id": 139
+    },
+    {
+      "tag": "ACCESSORIES",
+      "gcid": 27,
+      "name": "Vena",
+      "pic1": "https://picsum.photos/seed/1CWxQt/640/480",
+      "pic2": "https://picsum.photos/seed/DIgNxl/640/480",
+      "price": 2957,
+      "id": 140
+    },
+    {
+      "tag": "ACCESSORIES",
+      "gcid": 27,
+      "name": "Carlos",
+      "pic1": "https://picsum.photos/seed/aHFs96mw/640/480",
+      "pic2": "https://picsum.photos/seed/HNHuJJ/640/480",
+      "price": 2828,
+      "id": 141
+    },
+    {
+      "tag": "ACCESSORIES",
+      "gcid": 27,
+      "name": "Bernie",
+      "pic1": "https://picsum.photos/seed/IaRTlVs/640/480",
+      "pic2": "https://picsum.photos/seed/Ua0Uzyr/640/480",
+      "price": 2512,
+      "id": 142
+    },
+    {
+      "tag": "ACCESSORIES",
+      "gcid": 27,
+      "name": "Rashad",
+      "pic1": "https://picsum.photos/seed/v0tUMUMOGv/640/480",
+      "pic2": "https://picsum.photos/seed/7zQzdct5/640/480",
+      "price": 1381,
+      "id": 143
+    },
+    {
+      "tag": "ACCESSORIES",
+      "gcid": 27,
+      "name": "Roxanne",
+      "pic1": "https://picsum.photos/seed/6XvsjM3IA/640/480",
+      "pic2": "https://picsum.photos/seed/jVURsmYle/640/480",
+      "price": 4704,
+      "id": 144
+    },
+    {
+      "tag": "ACCESSORIES",
+      "gcid": 27,
+      "name": "Everette",
+      "pic1": "https://picsum.photos/seed/QUZOj8/640/480",
+      "pic2": "https://picsum.photos/seed/B32VUBdAO/640/480",
+      "price": 2469,
+      "id": 145
+    },
+    {
+      "tag": "GIRLS(6Y - 14Y)",
+      "gcid": 28,
+      "name": "Sammy",
+      "pic1": "https://picsum.photos/seed/3DDaYl/640/480",
+      "pic2": "https://picsum.photos/seed/SCccd4W/640/480",
+      "price": 2305,
+      "id": 146
+    },
+    {
+      "tag": "GIRLS(6Y - 14Y)",
+      "gcid": 28,
+      "name": "Johanna",
+      "pic1": "https://picsum.photos/seed/ttoYOc/640/480",
+      "pic2": "https://picsum.photos/seed/XGsC1Ulfw/640/480",
+      "price": 3370,
+      "id": 147
+    },
+    {
+      "tag": "GIRLS(6Y - 14Y)",
+      "gcid": 28,
+      "name": "Lilyan",
+      "pic1": "https://picsum.photos/seed/h3Eq7C/640/480",
+      "pic2": "https://picsum.photos/seed/TTrrUzX/640/480",
+      "price": 2485,
+      "id": 148
+    },
+    {
+      "tag": "GIRLS(6Y - 14Y)",
+      "gcid": 28,
+      "name": "Tabitha",
+      "pic1": "https://picsum.photos/seed/dYGm5CU/640/480",
+      "pic2": "https://picsum.photos/seed/79Ium3/640/480",
+      "price": 5463,
+      "id": 149
+    },
+    {
+      "tag": "GIRLS(6Y - 14Y)",
+      "gcid": 28,
+      "name": "Mia",
+      "pic1": "https://picsum.photos/seed/3bvsNyEpa6/640/480",
+      "pic2": "https://picsum.photos/seed/ajaYNk/640/480",
+      "price": 5298,
+      "id": 150
+    },
+    {
+      "tag": "BOYS(6Y - 14Y)",
+      "gcid": 29,
+      "name": "Katelin",
+      "pic1": "https://picsum.photos/seed/f5mXmfAb4s/640/480",
+      "pic2": "https://picsum.photos/seed/Ft7OSG/640/480",
+      "price": 2226,
+      "id": 151
+    },
+    {
+      "tag": "BOYS(6Y - 14Y)",
+      "gcid": 29,
+      "name": "Amalia",
+      "pic1": "https://picsum.photos/seed/aV1mbYUxl/640/480",
+      "pic2": "https://picsum.photos/seed/9H6BLc0hZ/640/480",
+      "price": 3230,
+      "id": 152
+    },
+    {
+      "tag": "BOYS(6Y - 14Y)",
+      "gcid": 29,
+      "name": "Juston",
+      "pic1": "https://picsum.photos/seed/kDjo8e6zdd/640/480",
+      "pic2": "https://picsum.photos/seed/yBA0eb5l8N/640/480",
+      "price": 2091,
+      "id": 153
+    },
+    {
+      "tag": "BOYS(6Y - 14Y)",
+      "gcid": 29,
+      "name": "Winifred",
+      "pic1": "https://picsum.photos/seed/f1snda6Z/640/480",
+      "pic2": "https://picsum.photos/seed/6P8Gh4X/640/480",
+      "price": 4915,
+      "id": 154
+    },
+    {
+      "tag": "BOYS(6Y - 14Y)",
+      "gcid": 29,
+      "name": "Litzy",
+      "pic1": "https://picsum.photos/seed/qIKTKV05kv/640/480",
+      "pic2": "https://picsum.photos/seed/Gb0OEjBsP/640/480",
+      "price": 5283,
+      "id": 155
+    },
+    {
+      "tag": "BABY-BOY(6M - 5Y)",
+      "gcid": 30,
+      "name": "Ari",
+      "pic1": "https://picsum.photos/seed/Yd5yw0TbC/640/480",
+      "pic2": "https://picsum.photos/seed/6hDRiKV/640/480",
+      "price": 3722,
+      "id": 156
+    },
+    {
+      "tag": "BABY-BOY(6M - 5Y)",
+      "gcid": 30,
+      "name": "Gertrude",
+      "pic1": "https://picsum.photos/seed/rKoQAVqt/640/480",
+      "pic2": "https://picsum.photos/seed/9LEgRzYIr/640/480",
+      "price": 4573,
+      "id": 157
+    },
+    {
+      "tag": "BABY-BOY(6M - 5Y)",
+      "gcid": 30,
+      "name": "Gisselle",
+      "pic1": "https://picsum.photos/seed/SPam5jUhA/640/480",
+      "pic2": "https://picsum.photos/seed/bL3v5ibPx/640/480",
+      "price": 2821,
+      "id": 158
+    },
+    {
+      "tag": "BABY-BOY(6M - 5Y)",
+      "gcid": 30,
+      "name": "Lulu",
+      "pic1": "https://picsum.photos/seed/jDyQ8y/640/480",
+      "pic2": "https://picsum.photos/seed/mjADPYY/640/480",
+      "price": 4657,
+      "id": 159
+    },
+    {
+      "tag": "BABY-BOY(6M - 5Y)",
+      "gcid": 30,
+      "name": "Julius",
+      "pic1": "https://picsum.photos/seed/foqSOY2k/640/480",
+      "pic2": "https://picsum.photos/seed/fwFHv/640/480",
+      "price": 2004,
+      "id": 160
+    },
+    {
+      "tag": "BABY-GIRL(6M - 5Y)",
+      "gcid": 31,
+      "name": "Kay",
+      "pic1": "https://picsum.photos/seed/BN656t/640/480",
+      "pic2": "https://picsum.photos/seed/O3tSh/640/480",
+      "price": 4165,
+      "id": 161
+    },
+    {
+      "tag": "BABY-GIRL(6M - 5Y)",
+      "gcid": 31,
+      "name": "Raul",
+      "pic1": "https://picsum.photos/seed/Y0TU5/640/480",
+      "pic2": "https://picsum.photos/seed/Jc3A5AK/640/480",
+      "price": 2260,
+      "id": 162
+    },
+    {
+      "tag": "BABY-GIRL(6M - 5Y)",
+      "gcid": 31,
+      "name": "Elta",
+      "pic1": "https://picsum.photos/seed/6MjoLM4V/640/480",
+      "pic2": "https://picsum.photos/seed/bsEpS1C/640/480",
+      "price": 3823,
+      "id": 163
+    },
+    {
+      "tag": "BABY-GIRL(6M - 5Y)",
+      "gcid": 31,
+      "name": "Scotty",
+      "pic1": "https://picsum.photos/seed/wvxxEo/640/480",
+      "pic2": "https://picsum.photos/seed/s3mtO/640/480",
+      "price": 4870,
+      "id": 164
+    },
+    {
+      "tag": "BABY-GIRL(6M - 5Y)",
+      "gcid": 31,
+      "name": "Marcella",
+      "pic1": "https://picsum.photos/seed/NVoA60Lvw/640/480",
+      "pic2": "https://picsum.photos/seed/pR83t9oVM/640/480",
+      "price": 2416,
+      "id": 165
+    },
+    {
+      "tag": "SHIRTS | BLOUSES",
+      "gcid": 14,
+      "name": "Odell",
+      "pic1": "https://picsum.photos/seed/mOPlgjeE/640/480",
+      "pic2": "https://picsum.photos/seed/71dRk7I/640/480",
+      "price": 512,
+      "id": 166
+    },
+    {
+      "tag": "SHIRTS | BLOUSES",
+      "gcid": 14,
+      "name": "Janelle",
+      "pic1": "https://picsum.photos/seed/V302QYsuc/640/480",
+      "pic2": "https://picsum.photos/seed/ZVAMrJE/640/480",
+      "price": 4373,
+      "id": 167
+    },
+    {
+      "tag": "SHIRTS | BLOUSES",
+      "gcid": 14,
+      "name": "Lonzo",
+      "pic1": "https://picsum.photos/seed/n344Pb/640/480",
+      "pic2": "https://picsum.photos/seed/4GJz7f5/640/480",
+      "price": 3569,
+      "id": 168
+    },
+    {
+      "tag": "SHIRTS | BLOUSES",
+      "gcid": 14,
+      "name": "Laverne",
+      "pic1": "https://picsum.photos/seed/qjaM6SO7/640/480",
+      "pic2": "https://picsum.photos/seed/V2F7Z/640/480",
+      "price": 2077,
+      "id": 169
+    },
+    {
+      "tag": "SHIRTS | BLOUSES",
+      "gcid": 14,
+      "name": "Raul",
+      "pic1": "https://picsum.photos/seed/bKuUe21/640/480",
+      "pic2": "https://picsum.photos/seed/7s0Ero/640/480",
+      "price": 4925,
+      "id": 170
+    },
+    {
+      "tag": "SHIRTS | BLOUSES",
+      "gcid": 14,
+      "name": "Cleveland",
+      "pic1": "https://picsum.photos/seed/Prkgo/640/480",
+      "pic2": "https://picsum.photos/seed/7TM63d/640/480",
+      "price": 1196,
+      "id": 171
+    },
+    {
+      "tag": "SHIRTS | BLOUSES",
+      "gcid": 14,
+      "name": "Hellen",
+      "pic1": "https://picsum.photos/seed/hVovVgZiZ/640/480",
+      "pic2": "https://picsum.photos/seed/u5qG5mtc/640/480",
+      "price": 3105,
+      "id": 172
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 15,
+      "name": "Elliott",
+      "pic1": "https://picsum.photos/seed/x2tEFJZWnd/640/480",
+      "pic2": "https://picsum.photos/seed/Zp5QC/640/480",
+      "price": 1385,
+      "id": 173
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 15,
+      "name": "Dario",
+      "pic1": "https://picsum.photos/seed/Z8v5t2O/640/480",
+      "pic2": "https://picsum.photos/seed/B1cXE8/640/480",
+      "price": 5379,
+      "id": 174
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 15,
+      "name": "Constantin",
+      "pic1": "https://picsum.photos/seed/x1ofBgzK/640/480",
+      "pic2": "https://picsum.photos/seed/CRinx9mule/640/480",
+      "price": 3904,
+      "id": 175
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 15,
+      "name": "Kenny",
+      "pic1": "https://picsum.photos/seed/Ip4F2/640/480",
+      "pic2": "https://picsum.photos/seed/mVLjO/640/480",
+      "price": 3669,
+      "id": 176
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 15,
+      "name": "Betty",
+      "pic1": "https://picsum.photos/seed/7j69CNejL/640/480",
+      "pic2": "https://picsum.photos/seed/KLBMVBYE/640/480",
+      "price": 5434,
+      "id": 177
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 15,
+      "name": "Elton",
+      "pic1": "https://picsum.photos/seed/DMwPyJ/640/480",
+      "pic2": "https://picsum.photos/seed/EHYuc/640/480",
+      "price": 1745,
+      "id": 178
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 15,
+      "name": "Ima",
+      "pic1": "https://picsum.photos/seed/7lp20Vp/640/480",
+      "pic2": "https://picsum.photos/seed/zE2Wj/640/480",
+      "price": 4571,
+      "id": 179
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 15,
+      "name": "Allene",
+      "pic1": "https://picsum.photos/seed/feQHSY/640/480",
+      "pic2": "https://picsum.photos/seed/K9RMCgZw0H/640/480",
+      "price": 1728,
+      "id": 180
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 15,
+      "name": "Alivia",
+      "pic1": "https://picsum.photos/seed/ZsznILWTG/640/480",
+      "pic2": "https://picsum.photos/seed/3aIKqLnqxk/640/480",
+      "price": 2016,
+      "id": 181
+    },
+    {
+      "tag": "T-SHIRTS",
+      "gcid": 15,
+      "name": "Mustafa",
+      "pic1": "https://picsum.photos/seed/9L2HdG3Y/640/480",
+      "pic2": "https://picsum.photos/seed/pSuwT30B/640/480",
+      "price": 4916,
+      "id": 182
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 16,
+      "name": "Carley",
+      "pic1": "https://picsum.photos/seed/AkrSR353b/640/480",
+      "pic2": "https://picsum.photos/seed/lUeZoApy/640/480",
+      "price": 4879,
+      "id": 183
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 16,
+      "name": "Georgianna",
+      "pic1": "https://picsum.photos/seed/x4Zu2TW/640/480",
+      "pic2": "https://picsum.photos/seed/YRlcIq/640/480",
+      "price": 4310,
+      "id": 184
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 16,
+      "name": "Devonte",
+      "pic1": "https://picsum.photos/seed/8YHqoHE/640/480",
+      "pic2": "https://picsum.photos/seed/XaYiuy2/640/480",
+      "price": 3520,
+      "id": 185
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 16,
+      "name": "Amira",
+      "pic1": "https://picsum.photos/seed/DsWPH/640/480",
+      "pic2": "https://picsum.photos/seed/JPlHPZD/640/480",
+      "price": 2978,
+      "id": 186
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 16,
+      "name": "Hulda",
+      "pic1": "https://picsum.photos/seed/M1FYyED/640/480",
+      "pic2": "https://picsum.photos/seed/1MXAO21ps/640/480",
+      "price": 3189,
+      "id": 187
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 16,
+      "name": "Erwin",
+      "pic1": "https://picsum.photos/seed/udiKIEa/640/480",
+      "pic2": "https://picsum.photos/seed/9JzZLC/640/480",
+      "price": 5456,
+      "id": 188
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 16,
+      "name": "Savanna",
+      "pic1": "https://picsum.photos/seed/z9AB1I/640/480",
+      "pic2": "https://picsum.photos/seed/bzK35o3Rzz/640/480",
+      "price": 2943,
+      "id": 189
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 16,
+      "name": "Claudine",
+      "pic1": "https://picsum.photos/seed/1K06B79M0/640/480",
+      "pic2": "https://picsum.photos/seed/jMunTeG/640/480",
+      "price": 931,
+      "id": 190
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 16,
+      "name": "Elliott",
+      "pic1": "https://picsum.photos/seed/JjkN5/640/480",
+      "pic2": "https://picsum.photos/seed/wp31EMX/640/480",
+      "price": 2681,
+      "id": 191
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 16,
+      "name": "Blanche",
+      "pic1": "https://picsum.photos/seed/qapEY/640/480",
+      "pic2": "https://picsum.photos/seed/EEnyV8c/640/480",
+      "price": 2657,
+      "id": 192
+    },
+    {
+      "tag": "ACTIVE - WEAR",
+      "gcid": 16,
+      "name": "Melissa",
+      "pic1": "https://picsum.photos/seed/hVCpWO/640/480",
+      "pic2": "https://picsum.photos/seed/OsVnB5t34/640/480",
+      "price": 2084,
+      "id": 193
+    },
+    {
+      "tag": "SKIRTS | SHORTS",
+      "gcid": 17,
+      "name": "Lillian",
+      "pic1": "https://picsum.photos/seed/OP3aqR/640/480",
+      "pic2": "https://picsum.photos/seed/CCgfhAyf87/640/480",
+      "price": 1118,
+      "id": 194
+    },
+    {
+      "tag": "SKIRTS | SHORTS",
+      "gcid": 17,
+      "name": "Dahlia",
+      "pic1": "https://picsum.photos/seed/FlcS734/640/480",
+      "pic2": "https://picsum.photos/seed/zXLfh2uHN/640/480",
+      "price": 4919,
+      "id": 195
+    },
+    {
+      "tag": "SKIRTS | SHORTS",
+      "gcid": 17,
+      "name": "Maya",
+      "pic1": "https://picsum.photos/seed/NjJAF9TM/640/480",
+      "pic2": "https://picsum.photos/seed/90Vw7FzgNj/640/480",
+      "price": 3082,
+      "id": 196
+    },
+    {
+      "tag": "SKIRTS | SHORTS",
+      "gcid": 17,
+      "name": "Beth",
+      "pic1": "https://picsum.photos/seed/hWQne/640/480",
+      "pic2": "https://picsum.photos/seed/L6vEzP8/640/480",
+      "price": 4908,
+      "id": 197
+    },
+    {
+      "tag": "SKIRTS | SHORTS",
+      "gcid": 17,
+      "name": "Emmitt",
+      "pic1": "https://picsum.photos/seed/jn7Wy0X/640/480",
+      "pic2": "https://picsum.photos/seed/NQP2Ud/640/480",
+      "price": 2249,
+      "id": 198
+    },
+    {
+      "tag": "SKIRTS | SHORTS",
+      "gcid": 17,
+      "name": "Willa",
+      "pic1": "https://picsum.photos/seed/HtJw2/640/480",
+      "pic2": "https://picsum.photos/seed/sP2RSf/640/480",
+      "price": 1054,
+      "id": 199
+    },
+    {
+      "tag": "SKIRTS | SHORTS",
+      "gcid": 17,
+      "name": "Jewell",
+      "pic1": "https://picsum.photos/seed/UDqyL/640/480",
+      "pic2": "https://picsum.photos/seed/ZjPcJk0m/640/480",
+      "price": 4719,
+      "id": 200
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 18,
+      "name": "Hildegard",
+      "pic1": "https://picsum.photos/seed/C7nW1Bx94i/640/480",
+      "pic2": "https://picsum.photos/seed/vCTogD/640/480",
+      "price": 4784,
+      "id": 201
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 18,
+      "name": "Alec",
+      "pic1": "https://picsum.photos/seed/2LlwJqM/640/480",
+      "pic2": "https://picsum.photos/seed/6nAWc1f9Rw/640/480",
+      "price": 1632,
+      "id": 202
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 18,
+      "name": "Brayan",
+      "pic1": "https://picsum.photos/seed/8AZHamvd6/640/480",
+      "pic2": "https://picsum.photos/seed/0Bdvhal55/640/480",
+      "price": 3822,
+      "id": 203
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 18,
+      "name": "Vladimir",
+      "pic1": "https://picsum.photos/seed/qT1BlcJvP1/640/480",
+      "pic2": "https://picsum.photos/seed/TnhqI/640/480",
+      "price": 2683,
+      "id": 204
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 18,
+      "name": "Aileen",
+      "pic1": "https://picsum.photos/seed/9yscoXuDof/640/480",
+      "pic2": "https://picsum.photos/seed/kQ2tsBAEJt/640/480",
+      "price": 666,
+      "id": 205
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 18,
+      "name": "Elvis",
+      "pic1": "https://picsum.photos/seed/Os7Sj0j/640/480",
+      "pic2": "https://picsum.photos/seed/igEVS4/640/480",
+      "price": 4201,
+      "id": 206
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 18,
+      "name": "Oren",
+      "pic1": "https://picsum.photos/seed/n8P3Wit/640/480",
+      "pic2": "https://picsum.photos/seed/grytniInd/640/480",
+      "price": 771,
+      "id": 207
+    },
+    {
+      "tag": "SHOES",
+      "gcid": 19,
+      "name": "Devante",
+      "pic1": "https://picsum.photos/seed/gYIUO/640/480",
+      "pic2": "https://picsum.photos/seed/f4Gs1WQfCv/640/480",
+      "price": 2470,
+      "id": 208
+    },
+    {
+      "tag": "SHOES",
+      "gcid": 19,
+      "name": "Shyanne",
+      "pic1": "https://picsum.photos/seed/0JXrxoIQ/640/480",
+      "pic2": "https://picsum.photos/seed/SLT00/640/480",
+      "price": 2153,
+      "id": 209
+    },
+    {
+      "tag": "SHOES",
+      "gcid": 19,
+      "name": "Allene",
+      "pic1": "https://picsum.photos/seed/tLxKaZB/640/480",
+      "pic2": "https://picsum.photos/seed/4rDt5gmVi/640/480",
+      "price": 1245,
+      "id": 210
+    },
+    {
+      "tag": "SHOES",
+      "gcid": 19,
+      "name": "Erwin",
+      "pic1": "https://picsum.photos/seed/10njXEpE/640/480",
+      "pic2": "https://picsum.photos/seed/1jatlcIE/640/480",
+      "price": 4696,
+      "id": 211
+    },
+    {
+      "tag": "SHOES",
+      "gcid": 19,
+      "name": "Renee",
+      "pic1": "https://picsum.photos/seed/xSf52Gk/640/480",
+      "pic2": "https://picsum.photos/seed/aX56tS3w2/640/480",
+      "price": 3697,
+      "id": 212
+    },
+    {
+      "tag": "SHOES",
+      "gcid": 19,
+      "name": "Kelsi",
+      "pic1": "https://picsum.photos/seed/k4SIM/640/480",
+      "pic2": "https://picsum.photos/seed/W75h7U/640/480",
+      "price": 3543,
+      "id": 213
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 20,
+      "name": "Oceane",
+      "pic1": "https://picsum.photos/seed/bJyOM/640/480",
+      "pic2": "https://picsum.photos/seed/hbfGE/640/480",
+      "price": 2554,
+      "id": 214
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 20,
+      "name": "Kacey",
+      "pic1": "https://picsum.photos/seed/V9Nwb1/640/480",
+      "pic2": "https://picsum.photos/seed/OpsuDC/640/480",
+      "price": 4608,
+      "id": 215
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 20,
+      "name": "Johanna",
+      "pic1": "https://picsum.photos/seed/SU8UZqI0Yn/640/480",
+      "pic2": "https://picsum.photos/seed/sPgskzCxF/640/480",
+      "price": 3555,
+      "id": 216
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 20,
+      "name": "Schuyler",
+      "pic1": "https://picsum.photos/seed/Dp4hR5/640/480",
+      "pic2": "https://picsum.photos/seed/4ui5C/640/480",
+      "price": 4476,
+      "id": 217
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 20,
+      "name": "Ellsworth",
+      "pic1": "https://picsum.photos/seed/AK58bBVx/640/480",
+      "pic2": "https://picsum.photos/seed/MB115w0O8/640/480",
+      "price": 758,
+      "id": 218
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 20,
+      "name": "Paula",
+      "pic1": "https://picsum.photos/seed/HZUGhon/640/480",
+      "pic2": "https://picsum.photos/seed/XNqbSmO/640/480",
+      "price": 3986,
+      "id": 219
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 20,
+      "name": "Mariam",
+      "pic1": "https://picsum.photos/seed/QQiUNXh/640/480",
+      "pic2": "https://picsum.photos/seed/LCJkm2IMgI/640/480",
+      "price": 5312,
+      "id": 220
+    },
+    {
+      "tag": "CO-ORD SETS",
+      "gcid": 21,
+      "name": "Wilfrid",
+      "pic1": "https://picsum.photos/seed/teLQD/640/480",
+      "pic2": "https://picsum.photos/seed/9J6h9/640/480",
+      "price": 4108,
+      "id": 221
+    },
+    {
+      "tag": "CO-ORD SETS",
+      "gcid": 21,
+      "name": "Eugene",
+      "pic1": "https://picsum.photos/seed/cxN9l02f8/640/480",
+      "pic2": "https://picsum.photos/seed/e67uj/640/480",
+      "price": 5163,
+      "id": 222
+    },
+    {
+      "tag": "CO-ORD SETS",
+      "gcid": 21,
+      "name": "Troy",
+      "pic1": "https://picsum.photos/seed/q47olBu1/640/480",
+      "pic2": "https://picsum.photos/seed/33W1VUVIS/640/480",
+      "price": 5309,
+      "id": 223
+    },
+    {
+      "tag": "CO-ORD SETS",
+      "gcid": 21,
+      "name": "Walton",
+      "pic1": "https://picsum.photos/seed/nfzyD1/640/480",
+      "pic2": "https://picsum.photos/seed/RK2K0tZ/640/480",
+      "price": 3156,
+      "id": 224
+    },
+    {
+      "tag": "CO-ORD SETS",
+      "gcid": 21,
+      "name": "Dana",
+      "pic1": "https://picsum.photos/seed/Fjrv8ZE4YZ/640/480",
+      "pic2": "https://picsum.photos/seed/tblWE/640/480",
+      "price": 5010,
+      "id": 225
+    },
+    {
+      "tag": "CO-ORD SETS",
+      "gcid": 21,
+      "name": "Hiram",
+      "pic1": "https://picsum.photos/seed/dPCm0/640/480",
+      "pic2": "https://picsum.photos/seed/biZbY/640/480",
+      "price": 1138,
+      "id": 226
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 18,
+      "name": "Dylan",
+      "pic1": "https://picsum.photos/seed/uZEVg/640/480",
+      "pic2": "https://picsum.photos/seed/nKvd0Gs/640/480",
+      "price": 4575,
+      "id": 227
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 18,
+      "name": "Florencio",
+      "pic1": "https://picsum.photos/seed/HaoX0Bt/640/480",
+      "pic2": "https://picsum.photos/seed/BX3tO5b/640/480",
+      "price": 4266,
+      "id": 228
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 18,
+      "name": "Domenick",
+      "pic1": "https://picsum.photos/seed/FyblNxUGW/640/480",
+      "pic2": "https://picsum.photos/seed/5rVUwpvu0/640/480",
+      "price": 4241,
+      "id": 229
+    },
+    {
+      "tag": "JEANS",
+      "gcid": 18,
+      "name": "Sandrine",
+      "pic1": "https://picsum.photos/seed/JVIqO/640/480",
+      "pic2": "https://picsum.photos/seed/UQ5iUvx/640/480",
+      "price": 2374,
+      "id": 230
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 22,
+      "name": "William",
+      "pic1": "https://picsum.photos/seed/ld9YDQO22R/640/480",
+      "pic2": "https://picsum.photos/seed/ONIHG/640/480",
+      "price": 1253,
+      "id": 231
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 22,
+      "name": "Sydnee",
+      "pic1": "https://picsum.photos/seed/r3dYj/640/480",
+      "pic2": "https://picsum.photos/seed/AiHPVgo/640/480",
+      "price": 4163,
+      "id": 232
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 22,
+      "name": "Freida",
+      "pic1": "https://picsum.photos/seed/GmGSI9I9I/640/480",
+      "pic2": "https://picsum.photos/seed/SYDcEAzMu/640/480",
+      "price": 1014,
+      "id": 233
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 22,
+      "name": "Mable",
+      "pic1": "https://picsum.photos/seed/gU246e4S1v/640/480",
+      "pic2": "https://picsum.photos/seed/T7oSLlnk4f/640/480",
+      "price": 2992,
+      "id": 234
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 22,
+      "name": "Alison",
+      "pic1": "https://picsum.photos/seed/ADo6r/640/480",
+      "pic2": "https://picsum.photos/seed/3TcpB8l/640/480",
+      "price": 1710,
+      "id": 235
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 22,
+      "name": "Shana",
+      "pic1": "https://picsum.photos/seed/7KcO4Tf4/640/480",
+      "pic2": "https://picsum.photos/seed/rFDfvhSJ/640/480",
+      "price": 746,
+      "id": 236
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 22,
+      "name": "Herta",
+      "pic1": "https://picsum.photos/seed/t75ivCSg7N/640/480",
+      "pic2": "https://picsum.photos/seed/yvFyJhcd7p/640/480",
+      "price": 2626,
+      "id": 237
+    },
+    {
+      "tag": "CO-ORD SETS",
+      "gcid": 21,
+      "name": "Harold",
+      "pic1": "https://picsum.photos/seed/BQVvV8Mw9/640/480",
+      "pic2": "https://picsum.photos/seed/gkI8pvL/640/480",
+      "price": 5347,
+      "id": 238
+    },
+    {
+      "tag": "CO-ORD SETS",
+      "gcid": 21,
+      "name": "Ross",
+      "pic1": "https://picsum.photos/seed/wzVK5921a/640/480",
+      "pic2": "https://picsum.photos/seed/Pnot8Go9vm/640/480",
+      "price": 3440,
+      "id": 239
+    },
+    {
+      "tag": "COATS | BLAZERS",
+      "gcid": 23,
+      "name": "Cordia",
+      "pic1": "https://picsum.photos/seed/MO4zfvztc/640/480",
+      "pic2": "https://picsum.photos/seed/1albMGf/640/480",
+      "price": 542,
+      "id": 240
+    },
+    {
+      "tag": "COATS | BLAZERS",
+      "gcid": 23,
+      "name": "Vicky",
+      "pic1": "https://picsum.photos/seed/vr5aLR/640/480",
+      "pic2": "https://picsum.photos/seed/aAshQN/640/480",
+      "price": 3030,
+      "id": 241
+    },
+    {
+      "tag": "COATS | BLAZERS",
+      "gcid": 23,
+      "name": "Jettie",
+      "pic1": "https://picsum.photos/seed/BQdUFG/640/480",
+      "pic2": "https://picsum.photos/seed/CWt2q5KQX/640/480",
+      "price": 2077,
+      "id": 242
+    },
+    {
+      "tag": "COATS | BLAZERS",
+      "gcid": 23,
+      "name": "Macey",
+      "pic1": "https://picsum.photos/seed/7sPiI/640/480",
+      "pic2": "https://picsum.photos/seed/i9zwOOgHh/640/480",
+      "price": 2205,
+      "id": 243
+    },
+    {
+      "tag": "COATS | BLAZERS",
+      "gcid": 23,
+      "name": "Torrey",
+      "pic1": "https://picsum.photos/seed/ON4Zxe9G/640/480",
+      "pic2": "https://picsum.photos/seed/54oAG/640/480",
+      "price": 5170,
+      "id": 244
+    },
+    {
+      "tag": "SWEATERS | CARDIGANS",
+      "gcid": 24,
+      "name": "Marie",
+      "pic1": "https://picsum.photos/seed/gq69z6/640/480",
+      "pic2": "https://picsum.photos/seed/liqldt9LD/640/480",
+      "price": 3332,
+      "id": 245
+    },
+    {
+      "tag": "SWEATERS | CARDIGANS",
+      "gcid": 24,
+      "name": "Cicero",
+      "pic1": "https://picsum.photos/seed/hcN1M1nl/640/480",
+      "pic2": "https://picsum.photos/seed/DcuLUP/640/480",
+      "price": 5247,
+      "id": 246
+    },
+    {
+      "tag": "SWEATERS | CARDIGANS",
+      "gcid": 24,
+      "name": "Natalie",
+      "pic1": "https://picsum.photos/seed/vKo1nvG/640/480",
+      "pic2": "https://picsum.photos/seed/OZDCJku/640/480",
+      "price": 4574,
+      "id": 247
+    },
+    {
+      "tag": "SWEATERS | CARDIGANS",
+      "gcid": 24,
+      "name": "Winston",
+      "pic1": "https://picsum.photos/seed/F2dpD/640/480",
+      "pic2": "https://picsum.photos/seed/MQuGgPa/640/480",
+      "price": 1612,
+      "id": 248
+    },
+    {
+      "tag": "SWEATERS | CARDIGANS",
+      "gcid": 24,
+      "name": "Henriette",
+      "pic1": "https://picsum.photos/seed/cANc2e24m/640/480",
+      "pic2": "https://picsum.photos/seed/fxB3G9GNZJ/640/480",
+      "price": 5071,
+      "id": 249
+    },
+    {
+      "tag": "SWEATERS | CARDIGANS",
+      "gcid": 24,
+      "name": "Henry",
+      "pic1": "https://picsum.photos/seed/7ROYhc2u3/640/480",
+      "pic2": "https://picsum.photos/seed/9ofpNHQt/640/480",
+      "price": 2846,
+      "id": 250
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 25,
+      "name": "Dan",
+      "pic1": "https://picsum.photos/seed/7ix4vyfPb/640/480",
+      "pic2": "https://picsum.photos/seed/qBxJXmssD/640/480",
+      "price": 3677,
+      "id": 251
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 25,
+      "name": "Green",
+      "pic1": "https://picsum.photos/seed/zuskj/640/480",
+      "pic2": "https://picsum.photos/seed/mvYylAkJPf/640/480",
+      "price": 1140,
+      "id": 252
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 25,
+      "name": "Serenity",
+      "pic1": "https://picsum.photos/seed/ovF3nX/640/480",
+      "pic2": "https://picsum.photos/seed/ldAEX0/640/480",
+      "price": 3009,
+      "id": 253
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 25,
+      "name": "Doris",
+      "pic1": "https://picsum.photos/seed/B9TgP71/640/480",
+      "pic2": "https://picsum.photos/seed/AhXH9/640/480",
+      "price": 1418,
+      "id": 254
+    },
+    {
+      "tag": "SWEATSHIRTS | HOODIES",
+      "gcid": 25,
+      "name": "Ian",
+      "pic1": "https://picsum.photos/seed/DBng8bpoOU/640/480",
+      "pic2": "https://picsum.photos/seed/qQEkege/640/480",
+      "price": 4665,
+      "id": 255
+    },
+    {
+      "tag": "ACCESSORIES",
+      "gcid": 26,
+      "name": "Eryn",
+      "pic1": "https://picsum.photos/seed/VOMAdOGi/640/480",
+      "pic2": "https://picsum.photos/seed/nOPEv03s/640/480",
+      "price": 5473,
+      "id": 256
+    },
+    {
+      "tag": "ACCESSORIES",
+      "gcid": 26,
+      "name": "Lura",
+      "pic1": "https://picsum.photos/seed/ckUBv/640/480",
+      "pic2": "https://picsum.photos/seed/gKsgQLcugT/640/480",
+      "price": 1594,
+      "id": 257
+    },
+    {
+      "tag": "ACCESSORIES",
+      "gcid": 26,
+      "name": "Skylar",
+      "pic1": "https://picsum.photos/seed/B1O4F/640/480",
+      "pic2": "https://picsum.photos/seed/JFiH3/640/480",
+      "price": 3586,
+      "id": 258
+    },
+    {
+      "tag": "ACCESSORIES",
+      "gcid": 26,
+      "name": "Mozelle",
+      "pic1": "https://picsum.photos/seed/rer2cHAbiQ/640/480",
+      "pic2": "https://picsum.photos/seed/G4knLCUDv/640/480",
+      "price": 3661,
+      "id": 259
+    },
+    {
+      "tag": "ACCESSORIES",
+      "gcid": 26,
+      "name": "Linwood",
+      "pic1": "https://picsum.photos/seed/LNkc6/640/480",
+      "pic2": "https://picsum.photos/seed/Wt3iVpsmds/640/480",
+      "price": 4330,
+      "id": 260
+    },
+    {
+      "tag": "ACCESSORIES",
+      "gcid": 26,
+      "name": "Orval",
+      "pic1": "https://picsum.photos/seed/5AByV1c6Z/640/480",
+      "pic2": "https://picsum.photos/seed/JXvFd/640/480",
+      "price": 2204,
+      "id": 261
+    }
+  ]
+}
